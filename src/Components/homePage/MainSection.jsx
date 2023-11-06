@@ -14,7 +14,7 @@ function MainSection() {
 
     return (
         <>
-            <section className="container mx-auto px-56 mt-28 h-80 md:pl-[8rem] md:pr-[2rem] md:h-[26rem] lg:pl-[6rem] lg:pr-[2rem] lg:mb-[20rem] 2xl:pl-[6rem] 2xl:pr-[3rem]">
+            <section className="container mx-auto px-56 mt-28 h-80 md:pl-[8rem] md:pr-[2rem] md:h-[26rem] lg:pl-[6rem] lg:pr-[2rem] lg:mb-[20rem] 2xl:pl-[6rem] 2xl:pr-[3rem] bg-white">
                 <div className="h-80 flex columns-2 md:h-0 lg:w-[51rem] md:w-full">
                     <div className="flex flex-col w-1/2 md:w-0">
                         <p className="text-6xl font-bold mb-8 text-customNavyLight pt-3  md:text-[2.125rem] md:w-[15rem]">
