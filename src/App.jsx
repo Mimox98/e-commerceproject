@@ -34,7 +34,9 @@ function App() {
  
 
   return (
+    <div className=" bg-white">
     <RouterProvider router={router}></RouterProvider>
+    </div>
   )
 }
 
