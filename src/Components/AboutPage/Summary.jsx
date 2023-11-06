@@ -8,7 +8,7 @@ function Summary() {
     dispatch(uiAction.modifiyNavigationTab({ navigationHandler: 'About' }));
 
     return (
-        <div className="container mx-auto px-56 mt-24 h-80 md:w-[45rem] ">
+        <div className="container mx-auto px-56 mt-24 h-80 md:w-[45rem] bg-white">
             <p className="text-6xl text-center font-bold text-customNavyLight">
                 We love <p className="text-4xl rounded-lg py-[1rem] px-[1.5rem] inline bg-customLightAqua text-customBluefont">M-comfy</p>
             </p>
